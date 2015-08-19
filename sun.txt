@@ -1,3 +1,5 @@
 This is a test to make sure I understand exactly what rebasing is doing.
 Repeat, this is a test.
 Adding a third line.
+Adding a fourth line.
+
