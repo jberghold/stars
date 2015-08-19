@@ -1,5 +1,5 @@
 This is a test to make sure I understand exactly what rebasing is doing.
-Changing the second line again.
+Changing the second line yet again!
 Adding a third line.
 Adding a fourth line.
 I'm attempting to add a fifth line using a different user.
